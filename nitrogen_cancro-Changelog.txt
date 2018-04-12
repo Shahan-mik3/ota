@@ -1,0 +1,16 @@
+#26-Feb
+-Add square option for battery
+-Enable dirac on boot
+-Re-enable ambient display settings
+-Adreno idler
+-Some kernel improvements
+
+-Note: Clean flash recommended
+
+#07-Mar
+* android-8.1.0_r18 bump
+* March security patch
+* Add 60fps video support in front camera (Mi3 only)
+* Add 60fps video support for Mi4 back camera (Sony IMX214 sensor working, Samsung sensor needs testing)
+* Fix echo-cancellation in VoIP calls 
+* Upstream changes from NOS

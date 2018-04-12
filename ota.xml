@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <cancro>
+            <Filename>Nitrogen-OS-O-cancro-20180409.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://www.androidfilehost.com/?fid=818070582850506735</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description="">https://raw.githubusercontent.com/shahan-mik3/ota/master/nitrogen_cancro-Changelog.txt</ChangelogUrl>
+            <PaypalUrl
+                id="donation"
+                title=""
+                description="">https://goo.gl/gR4Usx</PaypalUrl>
+        </cancro>
+    </Stable>
+</SlimOTA>
