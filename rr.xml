@@ -7,14 +7,18 @@
                 id="rom"
                 title="Latest n Greatest"
                 description="Latest ResurrectionRemix build"></RomUrl>
-            <OpenGappsUrl
+                <OpenGappsUrl
                 id="open_gapps"
                 title="Open Gapps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	          <ChangelogUrl
+	        <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+		<FeatureUrl
+                id="Feature"
+                title="Feature List of RR Oreo"
+                description="Checkout the features present in rom">https://raw.githubusercontent.com/ResurrectionRemix/android_vendor_resurrection/oreo/Features.mkdn</FeatureUrl>
           </whyred>
     </Stable>
 </SlimOTA>
