@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <whyred>
-           <Filename>RR-O-v6.0.0-20180430-whyred-Official.zip</Filename>
+           <Filename>RR-O-v6.0.0-20180509-whyred-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Latest n Greatest"
-                description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix-oreo/files/whyred/RR-O-v6.0.0-20180430-whyred-Official.zip/download</RomUrl>
+                description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix-oreo/files/whyred/RR-O-v6.0.0-20180509-whyred-Official.zip/download</RomUrl>
                 <OpenGappsUrl
                 id="open_gapps"
                 title="Open Gapps"
